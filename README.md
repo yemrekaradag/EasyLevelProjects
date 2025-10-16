@@ -7,13 +7,13 @@ You can switch between branches to explore and run each project individually.
 
 #### 📁 Available Projects
 
-| # | Project Name | Description |
-|---|---------------|-------------|
-| 1 | **Fibonacci Average Calculator** | Calculates the average of Fibonacci numbers based on the user-provided depth. |
-| 2 | **Triangle Drawer** | Draws a triangle pattern on the console using dimensions entered by the user. |
-| 3 | **Circle Drawer** | Draws a circle on the console based on the radius provided by the user. |
-| 4 | **Basic Algorithm** | Takes a string and a number (separated by a comma) from the user, removes the character at the given index from the string, and prints the result. |
-| 5 | **Reverse String Characters** | Reverses a given string and prints it character by character. |
+| # | Project Name | Branch | Description |
+|---|---------------|-------------|-------------|
+| 1 | **Fibonacci Average Calculator** | `fibonacci-average` | Calculates the average of Fibonacci numbers based on the user-provided depth. |
+| 2 | **Triangle Drawer** | `triangle-drawer` | Draws a triangle pattern on the console using dimensions entered by the user. |
+| 3 | **Circle Drawer** | `circle-drawer` | Draws a circle on the console based on the radius provided by the user. |
+| 4 | **Basic Algorithm** | `basic-algorithm` | Takes a string and a number (separated by a comma) from the user, removes the character at the given index from the string, and prints the result. |
+| 5 | **Reverse String Characters** | `reverse-string` | Reverses a given string and prints it character by character. |
 
 ---
 
@@ -21,7 +21,7 @@ You can switch between branches to explore and run each project individually.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/yemrekaradag/EasyLevelProjects.git
    ```
 
 2. **List all available branches:**
@@ -35,13 +35,3 @@ You can switch between branches to explore and run each project individually.
    ```
 
 ---
-
-#### 💡 Example Branch Names
-
-| Project | Example Branch |
-|----------|----------------|
-| Fibonacci Average Calculator | `fibonacci-average` |
-| Triangle Drawer | `triangle-drawer` |
-| Circle Drawer | `circle-drawer` |
-| Basic Algorithm | `basic-algorithm` |
-| Reverse String Characters | `reverse-string` |
