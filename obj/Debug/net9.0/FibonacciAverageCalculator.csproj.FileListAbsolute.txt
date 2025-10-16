@@ -1,0 +1,14 @@
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\bin\Debug\net9.0\FibonacciAverageCalculator.exe
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\bin\Debug\net9.0\FibonacciAverageCalculator.deps.json
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\bin\Debug\net9.0\FibonacciAverageCalculator.runtimeconfig.json
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\bin\Debug\net9.0\FibonacciAverageCalculator.dll
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\bin\Debug\net9.0\FibonacciAverageCalculator.pdb
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\FibonacciAverageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\FibonacciAverageCalculator.AssemblyInfoInputs.cache
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\FibonacciAverageCalculator.AssemblyInfo.cs
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\FibonacciAverageCalculator.csproj.CoreCompileInputs.cache
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\FibonacciAverageCalculator.dll
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\refint\FibonacciAverageCalculator.dll
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\FibonacciAverageCalculator.pdb
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\FibonacciAverageCalculator.genruntimeconfig.cache
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\FibonacciAverageCalculator\obj\Debug\net9.0\ref\FibonacciAverageCalculator.dll
