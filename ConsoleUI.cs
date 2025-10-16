@@ -1,11 +1,11 @@
-namespace BasicAlgorithmApp;
+namespace ReverseCharShiftApp;
 
 public static class ConsoleUI
 {
     public static void Run()
     {
-        Console.WriteLine("Welcome to the Basic Algorithm App!");
-        Console.WriteLine("Enter inputs separated by space, e.g., 'Algoritma,3 Algoritma,5'");
+        Console.WriteLine("Welcome to the Character Shift App!");
+        Console.WriteLine("Enter words separated by space, e.g., 'Merhaba Hello Question'");
 
         string input = Console.ReadLine();
         if (string.IsNullOrWhiteSpace(input))
@@ -14,13 +14,12 @@ public static class ConsoleUI
             return;
         }
 
-        string[] entries = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-        AlgorithmProcessor processor = new AlgorithmProcessor();
+        string[] words = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+        CharacterShifter shifter = new CharacterShifter();
 
-        foreach (var entry in entries)
+        foreach (var word in words)
         {
-            string result = processor.RemoveCharacter(entry);
-            Console.Write(result + " ");
+            Console.Write(shifter.MoveFirstCharToEnd(word) + " ");
         }
 
         Console.WriteLine();

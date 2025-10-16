@@ -1,4 +1,4 @@
-﻿namespace BasicAlgorithmApp;
+﻿namespace ReverseCharShiftApp;
 
 internal class Program
 {
