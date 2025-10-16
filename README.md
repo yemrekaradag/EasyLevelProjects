@@ -9,7 +9,7 @@ You can switch between branches to explore and run each project individually.
 
 | # | Project Name  | `Branch` | Description |
 |---|---------------|----------|-------------|
-| 1 | **Fibonacci Average Calculator** | `fibonacci ssaverage` | Calculates the average of Fibonacci numbers based on the user-provided depth. |
+| 1 | **Fibonacci Average Calculator** | `fibonacci average`   | Calculates the average of Fibonacci numbers based on the user-provided depth. |
 | 2 | **Triangle Drawer** | `triangle-drawer` | Draws a triangle pattern on the console using dimensions entered by the user. |
 | 3 | **Circle Drawer** | `circle-drawer` | Draws a circle on the console based on the radius provided by the user. |
 | 4 | **Basic Algorithm** | `basic-algorithm` | Takes a string and a number (separated by a comma) from the user, removes the character at the given index from the string, and prints the result. |
