@@ -8,7 +8,7 @@ You can switch between branches to explore and run each project individually.
 #### 📁 Available Projects
 
 | # | Project Name  | `Branch`       | Description |
-|---|---------------|----------|-------------|
+|---|---------------|----------------------------------|-------------|
 | 1 | **Fibonacci Average Calculator** | `fibonacci average`      | Calculates the average of Fibonacci numbers based on the user-provided depth. |
 | 2 | **Triangle Drawer** | `triangle-drawer` | Draws a triangle pattern on the console using dimensions entered by the user. |
 | 3 | **Circle Drawer** | `circle-drawer` | Draws a circle on the console based on the radius provided by the user. |
