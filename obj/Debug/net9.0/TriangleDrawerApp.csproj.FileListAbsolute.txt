@@ -1,0 +1,15 @@
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\TriangleDrawerApp.exe
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\TriangleDrawerApp.deps.json
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\TriangleDrawerApp.runtimeconfig.json
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\TriangleDrawerApp.dll
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\TriangleDrawerApp.pdb
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\TriangleDrawerApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\TriangleDrawerApp.AssemblyInfoInputs.cache
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\TriangleDrawerApp.AssemblyInfo.cs
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\TriangleDrawerApp.csproj.CoreCompileInputs.cache
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\TriangleDrawerApp.sourcelink.json
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\TriangleDrawerApp.dll
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\refint\TriangleDrawerApp.dll
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\TriangleDrawerApp.pdb
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\TriangleDrawerApp.genruntimeconfig.cache
+c:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\ref\TriangleDrawerApp.dll
