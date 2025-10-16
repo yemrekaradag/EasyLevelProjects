@@ -1,30 +1,28 @@
-namespace CircleDrawerApp;
+namespace BasicAlgorithmApp;
 
 public static class ConsoleUI
 {
     public static void Run()
     {
-        Console.WriteLine("Welcome to the Circle Drawer!");
-        int radius = ReadCircleRadius();
+        Console.WriteLine("Welcome to the Basic Algorithm App!");
+        Console.WriteLine("Enter inputs separated by space, e.g., 'Algoritma,3 Algoritma,5'");
 
-        Circle circle = new Circle(radius);
-        circle.Draw();
-
-        Console.WriteLine("Press any key to exit...");
-        Console.ReadKey();
-    }
-
-    private static int ReadCircleRadius()
-    {
-        int radius;
-        while (true)
+        string input = Console.ReadLine();
+        if (string.IsNullOrWhiteSpace(input))
         {
-            Console.Write("Enter circle radius (positive integer): ");
-            string input = Console.ReadLine();
-            if (int.TryParse(input, out radius) && radius > 0)
-                break;
-            Console.WriteLine("Invalid input. Please enter a positive integer.");
+            Console.WriteLine("No input provided.");
+            return;
         }
-        return radius;
+
+        string[] entries = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+        AlgorithmProcessor processor = new AlgorithmProcessor();
+
+        foreach (var entry in entries)
+        {
+            string result = processor.RemoveCharacter(entry);
+            Console.Write(result + " ");
+        }
+
+        Console.WriteLine();
     }
 }

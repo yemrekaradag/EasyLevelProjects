@@ -1,0 +1,15 @@
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\BasicAlgorithmApp.exe
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\BasicAlgorithmApp.deps.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\BasicAlgorithmApp.runtimeconfig.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\BasicAlgorithmApp.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\BasicAlgorithmApp.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\BasicAlgorithmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\BasicAlgorithmApp.AssemblyInfoInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\BasicAlgorithmApp.AssemblyInfo.cs
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\BasicAlgorithmApp.csproj.CoreCompileInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\BasicAlgorithmApp.sourcelink.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\BasicAlgorithmApp.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\refint\BasicAlgorithmApp.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\BasicAlgorithmApp.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\BasicAlgorithmApp.genruntimeconfig.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\ref\BasicAlgorithmApp.dll

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\EasyLevelProjects\\CircleDrawerApp.csproj",
-      "projectName": "CircleDrawerApp",
-      "projectPath": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\EasyLevelProjects\\CircleDrawerApp.csproj",
+      "projectUniqueName": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\EasyLevelProjects\\BasicAlgorithmApp.csproj",
+      "projectName": "BasicAlgorithmApp",
+      "projectPath": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\EasyLevelProjects\\BasicAlgorithmApp.csproj",
       "packagesPath": "C:\\Users\\yemre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\EasyLevelProjects\\obj\\",
       "projectStyle": "PackageReference",

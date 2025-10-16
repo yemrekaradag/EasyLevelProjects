@@ -1,5 +1,4 @@
-﻿namespace CircleDrawerApp;
-
+﻿namespace BasicAlgorithmApp;
 
 internal class Program
 {
