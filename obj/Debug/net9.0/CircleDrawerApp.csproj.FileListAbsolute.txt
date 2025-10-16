@@ -1,0 +1,15 @@
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\CircleDrawerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\CircleDrawerApp.AssemblyInfoInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\CircleDrawerApp.AssemblyInfo.cs
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\CircleDrawerApp.csproj.CoreCompileInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\CircleDrawerApp.sourcelink.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\CircleDrawerApp.exe
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\CircleDrawerApp.deps.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\CircleDrawerApp.runtimeconfig.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\CircleDrawerApp.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\bin\Debug\net9.0\CircleDrawerApp.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\CircleDrawerApp.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\refint\CircleDrawerApp.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\CircleDrawerApp.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\CircleDrawerApp.genruntimeconfig.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\EasyLevelProjects\obj\Debug\net9.0\ref\CircleDrawerApp.dll
