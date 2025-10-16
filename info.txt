@@ -1,1 +1,8 @@
-test
+This repository contains 5 different console projects.  
+You can switch between branches to explore each one:
+
+1. Fibonacci Average Calculator  
+2. Triangle Drawer  
+3. Circle Drawer  
+4. Basic Algorithm  
+5. Reverse String Characters  
